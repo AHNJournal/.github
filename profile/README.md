@@ -14,9 +14,6 @@ Applied human neurosecurity is a next-generation **science domain** inspired by 
 
 ## How to contribute 
 
-## Contact 
-
-[Website](https://open-neurosecurity.org)
 
 <!--
 
