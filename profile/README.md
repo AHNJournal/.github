@@ -4,7 +4,7 @@ Welcome to the research and development wiki of [Applied Human Neurosecurity Jou
 
 Our global mission is to promote and support research, education and advocacy of applied human neurosecurity.  
 
-Applied human neurosecurity is a next-generation *science domain* inspired by computer security principles and the [free software movement](https://gnu.org). 
+Applied human neurosecurity is a next-generation **science domain** inspired by computer security principles and the [free software movement](https://gnu.org). 
 
 ## Getting started 
 
