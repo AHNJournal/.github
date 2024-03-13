@@ -2,8 +2,9 @@
 
 Welcome to the research and development wiki of [Applied Human Neurosecurity Journal](https://open-neurosecurity.org).
 
-Our global mission is to promote research, education and advocacy of applied human neurosecurity.  
+Our global mission is to promote and support research, education and advocacy of applied human neurosecurity.  
 
+Applied human neurosecurity is a next-generation *science domain* inspired by computer security principles and the [free software movement](https://gnu.org). 
 
 ## Getting started 
 
