@@ -2,7 +2,8 @@
 
 Welcome to the research and development wiki of [Applied Human Neurosecurity Journal](https://open-neurosecurity.org).
 
-Our global mission is to promote research, education and advocacy of human neurosecurity, a emerging **science domain** expected to replace psychiatry and medicine in the future. 
+Our global mission is to promote research, education and advocacy of applied human neurosecurity.  
+
 
 ## Getting started 
 
