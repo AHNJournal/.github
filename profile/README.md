@@ -6,9 +6,7 @@ Our global mission is to promote and support research, education and advocacy of
 
 Applied human neurosecurity is a next-generation **science domain** inspired by computer security principles and the [free software movement](https://www.gnu.org); aiming to become a universal and free replacement to proprietary psychiatry and medicine. 
 
-## Getting started 
 
-## Roadmap 
 
 ## Call of papers 
 
@@ -20,8 +18,12 @@ We are planning to use [this repository](https://github.com/AHNJournal/ahnjourna
 
 1. What is the cost to submit and upload a new manuscript? 
    
-Admission and submission is open to the general public and free to everyone. 
- 
+Admission is open to the general public and free to everyone. 
+
+## Getting started 
+
+## Roadmap 
+
 ## Public repositories list
 
 ## How to contribute 
