@@ -14,12 +14,17 @@ Applied human neurosecurity is a next-generation **science domain** inspired by 
 
 Our current call of papers is [here](https://open-neurosecurity.org/editorial/la-neurosecurite-libre-et-ouverte-pour-tous/).
 
-We are planning to use this repository to manage the admission and peer-reviewing process of newly submitted manuscripts. Thus you are going to need a working GitHub account to submit your paper.  
+We are planning to use [this repository](https://github.com/AHNJournal/ahnjournal-preprints) to manage the admission and peer-reviewing process of newly submitted manuscripts. Thus you are going to need a working GitHub account to submit your paper.  
 
+## Frequently Asked Questions (FAQ)
+
+1. What is the cost to submit and upload a new manuscript? 
+   
+Admission and submission is open to the general public and free to everyone. 
+ 
 ## Public repositories list
 
 ## How to contribute 
-
 
 <!--
 
