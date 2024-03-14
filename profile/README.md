@@ -10,6 +10,12 @@ Applied human neurosecurity is a next-generation **science domain** inspired by 
 
 ## Roadmap 
 
+## Call of papers 
+
+Our current call of papers is [here](https://open-neurosecurity.org/editorial/la-neurosecurite-libre-et-ouverte-pour-tous/).
+
+We are planning to use this repository to manage the admission and peer-reviewing process of newly submitted manuscripts. Thus you are going to need a GitHub account to submit your paper.  
+
 ## Public repositories list
 
 ## How to contribute 
