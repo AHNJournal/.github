@@ -31,8 +31,8 @@ We are planning to use [this repository](https://github.com/AHNJournal/ahnjourna
 
 ## See also
 
-1. (Neurosecurity - Wikipedia)[https://en.wikipedia.org/wiki/Neurosecurity]
-2. (Applied Human Neurosecurity Journal)[https://open-neurosecurity.org]
+1. [Neurosecurity - Wikipedia](https://en.wikipedia.org/wiki/Neurosecurity)
+2. [Applied Human Neurosecurity Journal](https://open-neurosecurity.org)
 
 <!--
 
