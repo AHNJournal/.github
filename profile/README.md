@@ -20,13 +20,27 @@ We are planning to use [this repository](https://github.com/AHNJournal/ahnjourna
    
 Admission is open to the general public and free to everyone. 
 
-## Getting started 
+## Documentation 
+
+1. (User manual in HTML format)[https://open-neurosecurity.org/documentation/] **Work in progress**   
+2. (Wiki)[https://open-neurosecurity.org/wiki/]
 
 ## Roadmap 
 
+...
+
 ## Public repositories list
 
+...
+
 ## How to contribute 
+
+...
+
+## See also
+
+1. (Neurosecurity - Wikipedia)[https://en.wikipedia.org/wiki/Neurosecurity]
+2. (Applied Human Neurosecurity Journal)[https://open-neurosecurity.org]
 
 <!--
 
