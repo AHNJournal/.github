@@ -18,24 +18,16 @@ We are planning to use [this repository](https://github.com/AHNJournal/ahnjourna
 
 1. What is the cost to submit and upload a new manuscript? 
    
-Admission is open to the general public and free to everyone. 
+   *Admission is open to the general public and free to everyone.* 
 
 ## Documentation 
 
-1. (User manual in HTML format)[https://open-neurosecurity.org/documentation/] **Work in progress**   
-2. (Wiki)[https://open-neurosecurity.org/wiki/]
-
-## Roadmap 
-
-...
-
-## Public repositories list
-
-...
+1. [User manual in HTML format](https://open-neurosecurity.org/documentation/) **Work in progress**   
 
 ## How to contribute 
 
-...
+1. Please consider following [AHNJournal](https://github.com/AHNJournal) on [GitHub](https://github.com/) if you are interested to contribute.
+2. General questions about applied human neurosecurity can be posted on our official [neurosecurity forum](https://open-neurosecurity.org/forum/t/neurosecurity).
 
 ## See also
 
