@@ -4,13 +4,13 @@ Welcome to the research and development wiki of [Applied Human Neurosecurity Jou
 
 Our global mission is to promote and support research, education and advocacy of applied human neurosecurity.  
 
-Applied human neurosecurity is a next-generation **science domain** inspired by computer security principles and the [free software movement](https://www.gnu.org); aiming to become a universal and free replacement over proprietary psychiatry and medicine. 
+## History and credits
 
-
+Applied human neurosecurity is a next-generation **science domain** inspired by computer security principles and the [free software movement](https://www.gnu.org), aiming to become a **universal** and **free** replacement over proprietary/closed-source psychiatry. In contrast, binary [neurosecurity](https://www.wikipedia.org/wiki/Neurosecurity) is a set of practices and methods for securing brain-machine computer interfaces against vulnerabilities in proprietary devices and softwares. 
 
 ## Call of papers 
 
-Our current call of papers is [here](https://open-neurosecurity.org/editorial/la-neurosecurite-libre-et-ouverte-pour-tous/).
+Our current call of papers is [here](https://open-neurosecurity.org/editorial/163).
 
 We are planning to use [this repository](https://github.com/AHNJournal/ahnjournal-preprints) to manage the admission and peer-reviewing process of newly submitted manuscripts. Thus you are going to need a working GitHub account to submit your paper.  
 
