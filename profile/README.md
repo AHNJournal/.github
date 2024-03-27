@@ -22,7 +22,7 @@ We are planning to use [this repository](https://github.com/AHNJournal/ahnjourna
 
 ## Documentation 
 
-1. [User manual in HTML format](https://open-neurosecurity.org/documentation/) **Work in progress**   
+1. [User manual in HTML format](https://open-neurosecurity.org/documentation/) - **Work in progress.**   
 
 ## How to contribute 
 
@@ -30,9 +30,8 @@ We are planning to use [this repository](https://github.com/AHNJournal/ahnjourna
 2. General questions about applied human neurosecurity can be posted on our official [neurosecurity forum](https://open-neurosecurity.org/forum/t/neurosecurity).
 
 ## See also
-
-1. [Neurosecurity - Wikipedia](https://en.wikipedia.org/wiki/Neurosecurity)
-2. [Applied Human Neurosecurity Journal](https://open-neurosecurity.org)
+1. [Applied Human Neurosecurity Journal](https://open-neurosecurity.org)
+2. [Neurosecurity - Wikipedia](https://en.wikipedia.org/wiki/Neurosecurity)
 
 <!--
 
