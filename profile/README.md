@@ -6,7 +6,7 @@ Our global mission is to promote and support research, education and advocacy of
 
 ## History and credits
 
-Applied human neurosecurity is a next-generation **science domain** inspired by computer security principles and the [free software movement](https://www.gnu.org), aiming to become a **universal** and **free** replacement over proprietary/closed-source psychiatry. In contrast, binary [neurosecurity](https://www.wikipedia.org/wiki/Neurosecurity) is a set of practices and methods for securing brain-machine computer interfaces against vulnerabilities in proprietary devices and softwares. 
+Applied human neurosecurity is a next-generation **science domain** inspired by computer security principles and the [free software movement](https://www.gnu.org), aiming to become a **universal** and **free** replacement over proprietary/non-free psychiatry. In contrast, binary [neurosecurity](https://www.wikipedia.org/wiki/Neurosecurity) is a set of proposals for securing brain-machine computer interfaces (BCIs) against novel vulnerabilities in proprietary devices and softwares. 
 
 ## Call of papers 
 
